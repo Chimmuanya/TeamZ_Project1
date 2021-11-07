@@ -1,0 +1,27 @@
+.footer {
+    height: 45px;
+    display: flex;
+    background-color: #e6e7e6;
+    
+}
+
+a:link {
+    color: #2e3a2e;
+    background-color: transparent;
+    text-decoration: none;
+    font-weight: 300;
+    padding: 12px;
+  }
+
+  a:hover {
+   background-color: transparent;
+    text-decoration: underline;
+  }
+
+  .footer-links1{
+      margin-right: 80px;
+  }
+
+  .footer-links2{
+    margin-right: 270px;
+}

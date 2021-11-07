@@ -1,0 +1,49 @@
+.navbar {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+a {
+  text-decoration: none;
+  
+}
+
+a:visited {
+  text-decoration: none;
+  
+}
+  
+   ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+  }
+
+  
+  li {
+    list-style-type: none;
+    padding: 10px;
+    
+    margin: 3px;
+    border-radius: 4px;
+    color: #f1f1f1;
+  }
+
+  li:hover {
+    text-decoration: underline;
+    cursor: pointer;
+    font-weight: 500;
+    /* background-color: #398118;
+    border-style: solid;
+    border-color: #edf5ef; */
+    border-width: 2px;
+  }
+
+ img {
+   font-size: large;
+   text-align: center;
+   color: #52aa3c;
+ } 
+ 
+
+  
