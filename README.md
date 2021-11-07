@@ -1,5 +1,5 @@
 # TeamZ_Project1
-React SideHustle Internship Project1
+React SideHustle Internship Project1 for Team Zeus
 
 First Project using React Js
 The Google HomePage was Recreated as required.
