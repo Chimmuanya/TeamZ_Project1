@@ -1,6 +1,7 @@
 # TeamZ_Project1
 
 A Google homepage for the Sidehustle internship capstone project for Team Zeus.
+### 🏠 [Homepage](https://cocky-shockley-8842ff.netlify.app/)
 
 # Setup & Installations
 * Clone the project: "https://github.com/Chimmuanya/TeamZ_Project1.git" to your machine.
