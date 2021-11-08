@@ -20,6 +20,6 @@ the input field.
 * Javascript
 
 # Known Bugs
-No knwon bugs
+No known bugs
 
 
