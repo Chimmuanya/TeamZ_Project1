@@ -43,7 +43,7 @@ class MainContent extends React.Component {
     render() {
         return (
             <div className='maincontent'>
-                <img className='logo' alt={this.state.alt} src={this.state.src} ></img>
+                <img className='logo' onerror="this.style.display='none'" alt={this.state.alt} src={this.state.src} ></img>
                 <form>
                     <input className='searchinput' type='text' size='75' placeholder='Search' onChange={e => this.handleChange(e)}></input>
                     <div className='fieldbuttons'>
