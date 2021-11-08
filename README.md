@@ -1,10 +1,24 @@
 # TeamZ_Project1
-React SideHustle Internship Project1 for Team Zeus
 
-First Project using React Js
-The Google HomePage was Recreated as required.
-The SideHustle Logo was used to replace Google's logo.
-When a user types in the search input field, the SideHustle logo is updated in
+A Google homepage for the Sidehustle internship capstone project for Team Zeus.
+
+# Setup & Installations
+* Clone the project: "https://github.com/Chimmuanya/TeamZ_Project1.git" to your machine.
+* In the project directory you can run 'npm start'.
+
+# Behaviour Driven Development
+* When a user types in the search input field, the SideHustle logo is updated in
 the input field.
-When the input field is empty, the logo is displayed again.
-Enjoy!
+* The SideHustle Logo was used to replace Google's logo.
+* When the input field is empty, the logo is displayed again.
+
+# Technologies Used
+* React
+* Css
+* Html
+* Javascript
+
+# Known Bugs
+No knwon bugs
+
+
