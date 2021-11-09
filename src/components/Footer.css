@@ -25,3 +25,11 @@ a:link {
   .footer-links2{
     margin-right: 270px;
 }
+
+
+@media screen and (max-width: 600px) {
+  .footer{
+    display: none !important;
+    margin: auto;
+  }
+}

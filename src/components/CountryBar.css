@@ -9,3 +9,9 @@
     text-align: left;
     font-weight: 300;
 }
+
+@media screen and (max-width: 600px) {
+    .countrybar {
+	    display: none !important;
+	}
+}

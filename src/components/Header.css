@@ -1,6 +1,6 @@
 .navbar {
     display: flex;
-    flex-direction: row-reverse;
+    /*flex-direction: row-reverse;*/
 }
 
 a {
@@ -16,14 +16,13 @@ a:visited {
    ul {
     display: flex;
     flex-direction: row;
-    justify-content: flex-end;
+    /*justify-content: flex-end;*/
   }
 
   
   li {
     list-style-type: none;
     padding: 10px;
-    
     margin: 3px;
     border-radius: 4px;
     color: #f1f1f1;
@@ -47,3 +46,21 @@ a:visited {
  
 
   
+@media screen and (max-width: 600px) {
+  ul li a{
+    font-size: 12px !important;
+  }
+
+  li {
+    list-style-type: none;
+    padding: 0px !important;
+    margin: 10px !important;
+    border-radius: 4px;
+    color: #f1f1f1;
+  }
+
+  .logo {
+    width: 50% !important;
+    height: 50% !important;
+  }
+}
