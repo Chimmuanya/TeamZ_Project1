@@ -22,4 +22,10 @@ the input field.
 # Known Bugs
 No known bugs
 
-
+# Active Contributors
+* Adaeze Nwaiwu-Odus
+* Chimmuanya Mogbo
+* Ecline Koech
+* Ojotane Roy
+* William Eyimofe Binitie
+* *Chiamaka Ugoji
